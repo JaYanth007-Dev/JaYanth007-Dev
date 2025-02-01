@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Full Stack Developer with a strong expertise in both the MERN (MongoDB, Express.js, React, Node.js) and Java (Spring Boot, PostgreSQL) stacks. I’m passionate about crafting dynamic, high-performance web applications that deliver seamless user experiences. Always eager to learn and grow, I embrace new technologies and enjoy tackling complex challenges. Let’s collaborate and build something extraordinary together!
+Full Stack Developer with a strong expertise in both the MERN and Java stacks. I’m passionate about crafting dynamic, high-performance web applications that deliver seamless user experiences. Always eager to learn and grow, I embrace new technologies and enjoy tackling complex challenges. Let’s collaborate and build something extraordinary together!
 
 
 ### 🚀 More about me
