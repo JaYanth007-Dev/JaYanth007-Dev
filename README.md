@@ -74,6 +74,11 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaYanth007-Dev&theme=highcontrast)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaYanth007-Dev/JaYanth007-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaYanth007-Dev/JaYanth007-Dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JaYanth007-Dev/JaYanth007-Dev/output/github-snake.svg" />
+</picture>
 
 
 
