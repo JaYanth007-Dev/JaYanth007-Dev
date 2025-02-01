@@ -38,6 +38,9 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 
 <br/>
 
+### ⚙ Language Processing Tools
+![ANTLR](https://img.shields.io/badge/ANTLR-%23FF6F00.svg?style=for-the-badge&logo=antlr&logoColor=white)
+
 
 <br/>
 
@@ -75,11 +78,6 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 ### 🔥 GitHub Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaYanth007-Dev&theme=highcontrast)](https://git.io/streak-stats)
-
-### 🏆 Profile Trophies
-
-[![Jayanth's Trophies](https://github-profile-trophy.vercel.app/?username=JaYanth007-Dev&theme=highcontrast&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
