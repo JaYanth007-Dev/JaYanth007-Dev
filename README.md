@@ -1,9 +1,10 @@
-# 🏄‍♂️ Venkata Jayanth Kumar Challa
+# 🏄‍♂️ Venkata Jayanth Kumar Challa 
 
 **`Full Stack Developer`**
 
 Full Stack Developer with a strong expertise in both the MERN and Java stacks. I’m passionate about crafting dynamic, high-performance web applications that deliver seamless user experiences. Always eager to learn and grow, I embrace new technologies and enjoy tackling complex challenges. Let’s collaborate and build something extraordinary together!
 
+<img align="right" height="153" width="320" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
 ### 🚀 More about me
 
@@ -13,7 +14,7 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ### 🌐 Frontend
 
@@ -34,46 +35,40 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 <br/>
 
 ### ⚙ Language Processing Tools
+
 ![ANTLR](https://img.shields.io/badge/ANTLR-%23FF6F00.svg?style=for-the-badge&logo=antlr&logoColor=white)
-
-
 <br/>
 
 ### 📚 Version Control
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <br/>
 
 ### 💻 OS
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
 
 #
 
 ### 🔗 Connect with me
-
 [![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-kumar-ch-35b59a199/)
 [![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaYanth007-Dev/)
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanth826833@gmail.com)
 
 #
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=JaYanth007-Dev&show_icons=true&locale=en&theme=highcontrast&hide_border=true&count_private=true" alt="Jayanth's Github Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JaYanth007-Dev&show_icons=true&locale=en&theme=highcontrast&hide_border=true&count_private=true" alt="Jayanth's GitHub Stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaYanth007-Dev&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="Jayanth's Top Languages" /></td>
   </tr>
 </table>
+
 
 ### 🔥 GitHub Streak Stats
 
