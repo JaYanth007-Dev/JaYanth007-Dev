@@ -69,7 +69,6 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
   </tr>
 </table>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaYanth007-Dev/JaYanth007-Dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaYanth007-Dev/JaYanth007-Dev/output/github-snake.svg" />
