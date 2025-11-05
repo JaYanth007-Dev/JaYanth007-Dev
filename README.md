@@ -55,7 +55,6 @@ Full Stack Developer with a strong expertise in both the MERN and Java stacks. I
 
 ### 🔗 Connect with me
 [![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-kumar-ch-35b59a199/)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaYanth007-Dev/)
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanth826833@gmail.com)
 
 #
